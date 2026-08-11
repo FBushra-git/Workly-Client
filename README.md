@@ -395,8 +395,8 @@ Do not use `prisma migrate dev` in production. The hosting platform must support
 ## Project URLs
 
 ```text
-Backend API URL: <configure after deployment>
-GitHub Repository: <configure after repository publication>
-API Documentation: README.md
-Frontend URL: <configure when the frontend is available>
+Backend API URL: https://workly-server-pi.vercel.app
+GitHub Repository: https://github.com/FBushra-git/Workly-Client
+API Documentation: https://workly-server-pi.vercel.app/api/docs
+Frontend URL: https://workly-client-topaz.vercel.app
 ```
